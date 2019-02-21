@@ -101,8 +101,6 @@ def time_stats(df, month, day):
         print('The most popular month was {}.'.format(popular_month))
     else:
         print('The selected month was {}.'.format(month.title()))
-    #count_month = df[month].count()
-    #print('Count: {}'.format(count_month))
 
     # display the most common day of week
     if day == 'all':
