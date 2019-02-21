@@ -12,15 +12,9 @@ chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Books:
-Wes McKinney: "Datenanalyse mit Python", Heidelberg 2019 (Original: "Python for Data Analysis", 2018)
-Thomas Theis: "Einstieg in Python", Bonn 2014
-
-
+* Wes McKinney: "Datenanalyse mit Python", Heidelberg 2019 (Original: "Python for Data Analysis", 2018)
+* Thomas Theis: "Einstieg in Python", Bonn 2014
 
 Websites:
-
-https://im-coder.com/wie-ueberprueft-man-ob-eine-spalte-in-pandas-existiert.html
-Here I found a hint how to check if certain columns (Gender, Birth Year) exist in the DataFrame.
-
-Udacity Student Hub
-Helped me to find a solution for the display of raw data.
+* https://im-coder.com/wie-ueberprueft-man-ob-eine-spalte-in-pandas-existiert.html
+* Udacity Student Hub
