@@ -25,7 +25,7 @@ def get_filters():
         if city in ('chicago', 'new york city', 'washington'):
                 get_filter = False
         else:
-            print("Not a valid city. Please chose between Chicago, New York City or Washington")
+            print("Not a valid city. Please choose between Chicago, New York City or Washington")
 
     # get user input for month (all, january, february, ... , june)
     get_filter = True
@@ -101,8 +101,6 @@ def time_stats(df, month, day):
         print('The most popular month was {}.'.format(popular_month))
     else:
         print('The selected month was {}.'.format(month.title()))
-    #count_month = df[month].count()
-    #print('Count: {}'.format(count_month))
 
     # display the most common day of week
     if day == 'all':
