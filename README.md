@@ -5,7 +5,7 @@
 Bikeshare Project Programming for Data Sciences
 
 ### Description
-Describe what your project is about and what it does
+The project is a little script that allows to analyse data from a bike-share system.
 
 ### Files used
 Include the files used
