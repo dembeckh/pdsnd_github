@@ -11,11 +11,10 @@ The project is a little script that allows to analyse data from a bike-share sys
 chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
+Books:
 Wes McKinney: "Datenanalyse mit Python", Heidelberg 2019 (Original: "Python for Data Analysis", 2018)
-Certainly a good book, but not so helpful for my project.
-
 Thomas Theis: "Einstieg in Python", Bonn 2014
-It was just a quicker reference than the Udacity course.
+
 
 
 Websites:
